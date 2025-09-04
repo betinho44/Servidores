@@ -1,4 +1,3 @@
-[
 sdmx.vip:80
 tvstar.icu:8080
 azgol.pro:8080
@@ -3799,4 +3798,3 @@ rd.8844.ws
 vdk10.life:80
 xciptv.8888play.one:80
 c.maintech.top
-]
