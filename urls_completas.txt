@@ -1,4 +1,5 @@
-urls = [
+{
+  "urls": [
     "http://x.cliente.tech:8080",
     "http://iptv.magikserv.com:25750",
     "http://tegcinemaplus.info:80",
@@ -4839,5 +4840,5 @@ urls = [
     "http://starshare.live:8080",
     "http://vip.defanstv.com:2086",
     "http://idlib.link:80",
-    "http://balkan-worldtv.com:80",
+    "http://balkan-worldtv.com:80"
 ]
